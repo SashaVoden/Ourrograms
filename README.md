@@ -1,5 +1,3 @@
-This is my repository for our programs!
+different scripts like reverse-shell 
 
-.py files
-
-beaverV000 team
+beaverV000 team bruh gyat
