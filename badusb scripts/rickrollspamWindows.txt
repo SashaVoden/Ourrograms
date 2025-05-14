@@ -1,4 +1,4 @@
-REM Made By Kushed3d
+
 DELAY 1000
 GUI r
 DELAY 1500
